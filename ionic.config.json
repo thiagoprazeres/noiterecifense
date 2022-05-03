@@ -1,0 +1,7 @@
+{
+  "name": "noiterecifense",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
