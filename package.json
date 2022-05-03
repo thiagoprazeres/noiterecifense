@@ -1,8 +1,8 @@
 {
-  "name": "noiterecifense",
+  "name": "Noie Recifense",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Thiago Prazeres",
+  "homepage": "https://www.linkedin.com/in/thbezerra/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
