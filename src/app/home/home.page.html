@@ -21,7 +21,7 @@
           <h4 class="ion-padding">{{ datas[0].data }}</h4>
       </ion-text>
       <ion-card class="pin" *ngFor="let evento of datas" (click)="presentActionSheet(evento)">
-          <img *ngIf="evento.image" [src]="evento.image" [alt]="evento.title">
+          <ion-img *ngIf="evento.image" [src]="evento.image" [alt]="evento.title"></ion-img>
           <ion-card-header>
               <!-- <ion-card-subtitle><ion-icon name="calendar" slot="start" color="warning"></ion-icon> {{evento.date}} {{evento.time}}</ion-card-subtitle> -->
               <ion-card-title>
